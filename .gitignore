@@ -1,3 +1,9 @@
 data
 .DS_store
 *.DS_store
+Project_data
+*train
+*val
+*train.csv
+*val.csv
+*.ipynb_checkpoints
