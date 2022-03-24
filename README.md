@@ -1,5 +1,5 @@
 # MMAI894
-Team College: Final Project
+## Team College: Hand Gestures Classification
 
 ### About The Project
 Nowadays, technology has a pivotal role in creating virtual environments with virtual elements. We work collaboratively with real-world intelligent objects on a day-to-day basis. Innovations like the Internet of things (IoT) products, gesture recognition, and teleportation application have certainly made our life "smarter" and more accessible.   
