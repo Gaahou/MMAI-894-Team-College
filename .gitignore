@@ -1,15 +1,13 @@
 data
 .DS_store
 *.DS_store
-<<<<<<< HEAD
+
 experiment/.ipy*
 Project_data
 
-=======
-Project_data
 *train
 *val
 *train.csv
 *val.csv
 *.ipynb_checkpoints
->>>>>>> 632e7d9c9078375d365f8cb6f5626632e010174d
+
