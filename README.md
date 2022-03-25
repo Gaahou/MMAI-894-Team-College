@@ -28,4 +28,18 @@ Language: python > 3.8
 3. Open file:
 
 
+### Model Result
+Model Performance
+
+![ModelPerformance](docs/best_model.png)
+
+
+### Contact Us
+
+- [Andrew Ng](https://www.linkedin.com/in/andrng/)
+- [Deepali Jadhav](https://www.linkedin.com/in/deepalijadhav/)
+- [Jiayu Zhang](https://www.linkedin.com/in/jz020/)
+- [Mangesh Bodke](https://www.linkedin.com/in/mangesh-b-06a7b222b/)
+- [Shuyi Hui](https://www.linkedin.com/in/shelleyshuyi/)
+- [Wesley Li](https://www.linkedin.com/in/wesleylifu/)
     
