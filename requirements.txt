@@ -1,6 +1,5 @@
-pandas==1.4.0
-tensorflow-estimator==2.7.0
-tensorflow-io-gcs-filesystem==0.23.1
-tensorflow-macos==2.7.0
-tensorflow-metal==0.3.0
-scikit-image==0.19.2
+distlib==0.3.4
+filelock==3.6.0
+platformdirs==2.5.1
+six==1.16.0
+virtualenv==20.13.4
