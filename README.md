@@ -25,11 +25,21 @@ Language: python > 3.8
 
     jupyter notebook
 
-3. Open file:
+3. Data Preprocessing:
+
+    services/split_data.ipynb
+
+4. Model Training
+
+    gesturecogn_mac_v7.ipynb
 
 
 ### Model Result
-Model Performance
+
+#### Model Pipeline
+![ModelPerformance](docs/pipeline.jpeg)
+
+#### Model Performance
 
 ![ModelPerformance](docs/best_model.png)
 
